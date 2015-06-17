@@ -9,28 +9,18 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 ## Agenda Items
 
 ### Minutes and Agenda Approval
-* Approval of Minutes from 3/3 Executive Session (consent)
-* Approval of Minutes from 3/5 Executive Session (consent)
-* Approval of Minutes from 3/14 Board Meeting (consent)
+* Approval of Minutes from May Board Meeting
+* Approval of Minutes from June Special Board Meetings
 * Approval of Agenda
-
-### Community Presentations
-1. Learnapalooza
-2. Public Comment
+* Approval of Conflict of Interest Policy
+* Approval of Board Ethics Policy
 
 ### New Business
-1. Acceptance of Resignation of Willie Lovett
-2. Acceptance of Resignation of Diane Sandifer
-3. New Board Member Nominations (if any)
-4. Budgeting Process
-5. Approval of Principal Job Description
-6. LKES Training
-7. Finance Committee
-8. Board Governance Training
-9. Policy
-10. Board Survey
-11. Video Discussion
-12. 2015/16 Calendar Review
+1. Appoint Jeanelle Greene Wright Director of Operations
+2. Appoint Richard Lennert Dean of Student Culture
+3. Appoint Walter Buttler to Principal
+4. Adopt 2015/16 School Year Budget
+5. End of School Year Review
 
 ### Task Forces/Teams
 1. Budget/Finance
@@ -45,36 +35,6 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 ## Key Dates
 Below are a working list of key dates for the board. Items get added/changed/edited as the board gets closer to the month that they're in. These are not considered Agenda Items until they're added to the agenda.
 
-### January
-* FCS Budget Report
-
-### February
-* FCS Budget Report
-* Begin Budget and Staffing Allocation Discussion for Next Year
-* Lottery Implementation
-
-### March
-* FCS Budget Report
-* Enrollment Lottery
-
-### April
-* Georgia Milestones: April 24th
-* Budget Review
-* Learnapalooza Kickoff
-* Earth Day
-* FCS Budget Report
-* E-Rate Proposal Due 4/16
-* 2015/16 Calendar Review
-
-### May
-
-* Mayday!
-* Board/Teacher/Staff Thank You
-* Budget Report
-* TKES due
-* School Climate Survey
-* LKES Summitave Assessment Due
-* FCS Budget Report
 
 ### June
 * End of Board terms
@@ -112,3 +72,36 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * FCS Budget Report
 * Approval of Admission Targets for Next Year
 * Review Compliance Report
+* 
+### January
+* FCS Budget Report
+
+### February
+* FCS Budget Report
+* Begin Budget and Staffing Allocation Discussion for Next Year
+* Lottery Implementation
+
+### March
+* FCS Budget Report
+* Enrollment Lottery
+
+### April
+* Georgia Milestones: April 24th
+* Budget Review
+* Learnapalooza Kickoff
+* Earth Day
+* FCS Budget Report
+* E-Rate Proposal Due 4/16
+* 2015/16 Calendar Review
+
+### May
+
+* Mayday!
+* Board/Teacher/Staff Thank You
+* Budget Report
+* TKES due
+* School Climate Survey
+* LKES Summitave Assessment Due
+* FCS Budget Report
+
+
