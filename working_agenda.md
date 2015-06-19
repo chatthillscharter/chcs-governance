@@ -6,14 +6,25 @@ comments: false
 # About This Document
 This is a working agenda. As we get closer to our board meeting, the agenda will become more finalized. Until it's status is "final," it is only representative of the issues that the board thinks that it may need to talk about, not what the board will work on at the next meeting.
 
-## May Agenda Items
+## June Agenda Items
 
 ### Minutes and Agenda Approval
 * Approval of Minutes from May Board Meeting
 * Approval of Minutes from June Special Board Meetings
 * Approval of Agenda
 * Approval of Conflict of Interest Policy
+
+## Principal's Report
+* Hiring Report
+* End of Year Budget Report
+* MAP Test score review
+* Enrollment Update
+ 
+
+## Consent Agenda
 * Approval of Board Ethics Policy
+* Approval of Board Conflict of Interest Policy
+* Hiring of New Teachers
 
 ### New Business
 1. Appoint Jeanelle Greene Wright Director of Operations
