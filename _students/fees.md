@@ -1,7 +1,13 @@
 ---
-title: Fees Policy
+layout: policy
+title: Student Fines and Fees Policy
+source: Board Passage June 2015
+owner: Governing Board
+adopted: June 2015
+status: Adopted
+history: Adopted by Board June 2015.
+category: board
 ---
-
 I. CHCS is charged with providing free education for all students. Neither tuition nor fees may be charged for state funded courses. All schools will provide free of charge basic materials which are required within each course of study. This includes texts and other reading materials in courses requiring use of such materials by students.
 
 All textbooks, assistive technology devices and digital versions of textbooks that are acquired, library books, media materials, musical instruments, band uniforms or any other equipment or property purchased by CHCS with Quality Basic Education (QBE) funds or any other means of acquisition shall remain the property of CHCS. As a condition to receiving all or part of the state contributed QBE funds, the principal shall establish procedures necessary for the care and protection of these items.
