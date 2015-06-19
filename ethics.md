@@ -1,3 +1,14 @@
+---
+layout: policy
+title: Board Ethics Policy
+source: Georgia Charter Schools Association
+owner: Governing Board
+adopted: 
+status: Draft
+history: Published for Comment June 19 2015
+category: board
+---
+
 The Chattahoochee Hills Charter School Board desires to operate in the most ethical and conscientious manner possible and to that end the board adopts this Code of Ethics and each member of the board agrees that he or she will:
 
 ## Domain I:  Governance Structure  
