@@ -19,7 +19,6 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 * End of Year Budget Report
 * MAP Test score review
 * Enrollment Update
- 
 
 ## Consent Agenda
 * Approval of Board Ethics Policy
