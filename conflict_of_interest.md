@@ -1,3 +1,14 @@
+---
+layout: policy
+title: Conflict of Interest Policy
+source: Georgia Charter Schools Association
+owner: Governing Board
+adopted: 
+status: Draft
+history: Published for Comment June 19 2015
+category: board
+---
+
 The Chattahoochee Hills Charter School Board shall adhere to these Conflict of Interest provisions, as set forth in state law. 
 
 ## Financial Governance
