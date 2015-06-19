@@ -94,4 +94,3 @@ Comply with all applicable laws, rules, regulations, and all board policies rega
 ## Conflicts of Interest
 Announce potential conflicts of interest before board action is taken. 
  
-Comply with the conflicts of interest policy of the board, all applicable laws and Appendix B of The Standards document. 
