@@ -18,6 +18,7 @@ The CHCS board sets policy and, With the exception of policy created for the man
 Policies which are revised or eliminated by the board should be maintained in the PPR, with the date of the revision noted on the policy.
 
 ## Policy Development Procedure:
+
 ### Step One: Define the Issue or Problem
 The process of policy development at CHCS begins with recognizing the need for written policy. We recognize that the board is not alone in identifying policy needs. Parents, students, teachers, local community leaders, the administration, the state or federal government, and education advocacy groups are all sources of policy issues and problems.
 
