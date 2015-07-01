@@ -14,10 +14,12 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 ## Principal's Report
 * End of Year Data Review
 * DCI Position
-* School Goals for the Year
+* Pre-Planning
+* Review Primary Focus for Coming Year
 
 ### New Business
 1. Approval of Board Retreat Contract
+2. Discussion of New Board Members
 
 <hr/>
 
