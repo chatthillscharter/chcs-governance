@@ -22,3 +22,5 @@ collections:
     label: Data
   students:
     output: true
+  board:
+    output: true
