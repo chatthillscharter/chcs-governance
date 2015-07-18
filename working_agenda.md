@@ -27,15 +27,7 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 Below are a working list of key dates for the board. Items get added/changed/edited as the board gets closer to the month that they're in. These are not considered Agenda Items until they're added to the agenda.
 
 
-### June
-* End of Board terms
-* Budget Review and Adoption
-* FCS Budget Report
 
-### July
-* Beginning of Board Terms
-* Board Background Checks
-* FCS Budget Report
 
 ### August
 * Learnapalooza
@@ -50,6 +42,7 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * List of Board members Due to Ga DOE
 * Approve GADOE Report/Academic Form
 * FCS Budget Report
+* School Self Assessment
 
 ### October
 * State of the School Address Approval
@@ -66,6 +59,7 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * 
 ### January
 * FCS Budget Report
+* Begin LOI for Charter Renewal
 
 ### February
 * FCS Budget Report
@@ -93,6 +87,16 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * TKES due
 * School Climate Survey
 * LKES Summitave Assessment Due
+* FCS Budget Report
+
+### June
+* End of Board terms
+* Budget Review and Adoption
+* FCS Budget Report
+
+### July
+* Beginning of Board Terms
+* Board Background Checks
 * FCS Budget Report
 
 
