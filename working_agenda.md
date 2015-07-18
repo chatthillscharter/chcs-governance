@@ -31,6 +31,7 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * New Board Member Training
 * LKES Formative Assessment
 * FCS Budget Report
+* Begin Annual Report
 
 ### September
 * List of Board members Due to Ga DOE
