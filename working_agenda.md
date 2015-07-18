@@ -12,22 +12,16 @@ This is a working agenda. As we get closer to our board meeting, the agenda will
 * Approval of June Minutes
 
 ## Principal's Report
-* End of Year Data Review
-* DCI Position
-* Pre-Planning
-* Review Primary Focus for Coming Year
 
 ### New Business
 1. Approval of Board Retreat Contract
 2. Discussion of New Board Members
+3. Executive Session
 
 <hr/>
 
 ## Key Dates
 Below are a working list of key dates for the board. Items get added/changed/edited as the board gets closer to the month that they're in. These are not considered Agenda Items until they're added to the agenda.
-
-
-
 
 ### August
 * Learnapalooza
@@ -42,7 +36,7 @@ Below are a working list of key dates for the board. Items get added/changed/edi
 * List of Board members Due to Ga DOE
 * Approve GADOE Report/Academic Form
 * FCS Budget Report
-* School Self Assessment
+* [School Self Assessment](https://www.gadoe.org/External-Affairs-and-Policy/Charter-Schools/Documents/Accountability%20Report.xlsx)
 
 ### October
 * State of the School Address Approval
