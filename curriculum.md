@@ -4,6 +4,7 @@ status: working
 comments: false
 title: CHCS Curriculum Committee
 ---
+# CHCS Curriculum Committee
 _Chair: Rebecca Williams_
 
 ## Next Meeting
