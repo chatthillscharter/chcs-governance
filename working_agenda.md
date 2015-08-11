@@ -6,11 +6,11 @@ comments: false
 # About This Document
 This is a working agenda. As we get closer to our board meeting, the agenda will become more finalized. Until it's status is "final," it is only representative of the issues that the board thinks that it may need to talk about, not what the board will work on at the next meeting.
 
-## August Mini-Meeting Agenda Items
+## August 12 Mini-Meeting Agenda Items
 
 * Approval of the Hiring of New Teachers
 
-## September Meeting Agenda Items
+## September 8th Meeting Agenda Items
 * Finance Review
 * Background Checks
 * Charter Contract Extension
